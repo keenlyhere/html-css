@@ -1,0 +1,8 @@
+/* Your code here */
+.navbar ul {
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+    padding: 10px;
+    font-size: 12px;
+}
